@@ -4,6 +4,7 @@
 
 - I. Modélisation
   - La partie modélisation se trouve dans le fichier Final Project.ipynb
+  - Une modélisation avec des résultats différents est également présente: Option 2.ipynb
 
 - II. API Django
   - Configuration de l'environnement: Ouvrir un terminal dans DjangoAPI, et lancer les commandes suivantes:
