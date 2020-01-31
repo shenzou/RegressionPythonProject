@@ -6,6 +6,7 @@
   - La partie modélisation se trouve dans le fichier Final Project.ipynb
 
 - II. API Django
+  - Le modèle est sur git LFS (fichier volumineux) et doit être téléchargé manuellement (api/predictors/models/models.p)
   - Configuration de l'environnement: Ouvrir un terminal dans DjangoAPI, et lancer les commandes suivantes:
     1. python3 -m venv env
     2. source env/bin/activate
