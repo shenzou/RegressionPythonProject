@@ -1,4 +1,4 @@
-#!/home/alexandre/Documents/Année 5/Python Data Anlysis/Final project/DjangoAPI/env/bin/python3
+#!/home/alexandre/Documents/Année 5/Python Data Anlysis/RegressionPythonProject/DjangoAPI/env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
