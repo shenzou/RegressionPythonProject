@@ -25,3 +25,6 @@
     - opened_by
     - opened_at (format YYYY/MM/DD HH:MM)
   - Format de la réponse: {"Random Forest Regressor:": prediction, "Decision Tree:": prediction, "Valeur probable:": prediction, "Finira le:" prediction}
+  
+- III. Présentation
+  - La présentation PowerPoint est enregistrée sous le nom "Projet python for data analysis.pptx"
